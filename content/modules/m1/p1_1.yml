@@ -1,0 +1,26 @@
+name: "Teaching computer to repeat something specific"
+description: "Computers are machines that do not know how to do anything until we train them. In this step we will tell it to say something specific everytime we start it"
+instructor_guides:
+  - "Ask a kid to act as a robot and only do what you tell him to do"
+  - "Instructor uses the phrase `Say, My name is Jawad`"
+  - "Hopefully the student says `My name is Jawad` as per your instructions. If not then guide him to repeat only the part you instructed to say"
+  - "Create analogy that using the word `Say` is like telling a computer to repeat the required part"
+  - "Once the analogy is explained then explain that in Python the use of `print(\"\")` is like using `Say`"
+  - "Open any IDE like https://www.online-python.com/ to show case how it behaves by using code `print(\"My name is Jawad\")"
+  - "Give a few more examples and then print a triangle using asterik"
+code_samples:
+  - "print(\"My name is Jawad\")"
+  - |
+    "print(\"  *  \")
+     print(\" *** \")
+     print(\"*****\")"
+challenges:
+  - "print a square"
+  - "print a rectangle"
+  - "print a diamond"
+  - "print a circle"
+  - "print a interesting shapes"
+  - "print a lovely note for your mother/father"
+  - "print a lovely note for your brothers/sisters"
+  - "print a short story"
+  - "print your today's activities"
