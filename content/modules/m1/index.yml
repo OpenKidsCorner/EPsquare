@@ -3,3 +3,5 @@ description: "In this module we will explore some basics or programing to unders
 problems:
   - name: "Teaching computer to repeat something specific"
     file: "p1_1.yml"
+  - name: "Teaching computer to have a pre-defined conversation"
+    file: "p1_2.yml"

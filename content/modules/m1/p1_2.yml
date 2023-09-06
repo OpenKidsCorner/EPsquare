@@ -1,0 +1,33 @@
+name: "Teaching computer to have a pre-defined conversation"
+description: "Previously, we learned how to insruct computer to repeat some phrase. However, one-way communication typically does not serve any purpose. Let us see how we can tell computer to listen to us too."
+instructor_guides:
+  - "Again ask a kid to act as a robot. This time the robot has to say something and wait for a response before saying the next thing"
+  - |
+    "Instructor will tell the robot student to
+     - Say 'Hello' when someone says 'Computer turn on'. Then the robotic student waits for a response.
+     - Next say 'What is your name', then wait for a response.
+     - Next say 'Nice to meet you', then wait for a response.
+     - Turn off"
+  - |
+    "After explaining the above instructions, ask another student to act as a user of the robot and do the following:
+      - Say `computer turn on`
+      - Say `Hello` in response to the robot's Hello
+      - Say `My name is ....` in response to the robot's What is your name
+      - Say `Nice to meet you too` and end the conversation
+  - "Repeat the same steps with another student"
+  - "Once the concept of repeating a statement and waiting for an input is established. Then highlight that we can tell computer to wait for a response using 'input(\"\")'"
+  - "Use the below code sample to explain it to the students. Once you run the code, you will type the statements the regular student performed"
+code_samples:
+  - |
+    "print(\"Hello\")
+     input(\"\")
+     print(\"What is your name\")
+     input(\"\")
+     print(\"Nice to meet you\")"
+     input(\"\")
+challenges:
+  - "Think of a conversation with your Father/Mother. And repeat it by teaching your Father's/Mother's phrases to the computer and repeating yours urself"
+  - "Do the same for a conversation with a friend"
+  - "Do the same for a conversation with a doctor"
+  - "Do the same for a conversation of two chracters from a story"
+  - "Create your own story and simulate a conversation of two characters"
