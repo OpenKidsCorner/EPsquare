@@ -13,7 +13,7 @@ instructor_guides:
       - Say `computer turn on`
       - Say `Hello` in response to the robot's Hello
       - Say `My name is ....` in response to the robot's What is your name
-      - Say `Nice to meet you too` and end the conversation
+      - Say `Nice to meet you too` and end the conversation"
   - "Repeat the same steps with another student"
   - "Once the concept of repeating a statement and waiting for an input is established. Then highlight that we can tell computer to wait for a response using 'input(\"\")'"
   - "Use the below code sample to explain it to the students. Once you run the code, you will type the statements the regular student performed"
@@ -24,7 +24,7 @@ code_samples:
      print(\"What is your name\")
      input(\"\")
      print(\"Nice to meet you\")"
-     input(\"\")
+     input(\"\")"
 challenges:
   - "Think of a conversation with your Father/Mother. And repeat it by teaching your Father's/Mother's phrases to the computer and repeating yours urself"
   - "Do the same for a conversation with a friend"
