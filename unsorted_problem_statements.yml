@@ -5,5 +5,10 @@ problems:
     - loop
     - even-numbers
   statement: "Take a list of numbers as input and print the sum of all even numebrs using a loop."
-
+  - tags:
+    - strings
+    - list
+    - length
+    - loop
+  statement: "Take a list of strings as input and print the length of each string using loop."
   
