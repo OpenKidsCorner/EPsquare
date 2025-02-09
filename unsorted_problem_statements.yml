@@ -11,4 +11,120 @@ problems:
     - length
     - loop
   statement: "Take a list of strings as input and print the length of each string using loop."
-  
+  - tags:
+      - math
+      - arithmetic
+      - input
+  statement: "Take two floating-point numbers as input and perform addition, subtraction, multiplication, and division. Print each result in a descriptive format."
+  - tags:
+      - dictionary
+      - students
+      - marks
+      - conditionals
+  statement: "Take a dictionary with student names as keys and their marks as values. Print the name and marks of students who scored more than 80."
+  - tags:
+      - list
+      - loop
+      - square
+  statement: "Take a list of numbers as input and print the square of each number using a loop."
+  - tags:
+      - list
+      - loop
+      - count
+      - positive-negative
+  statement: "Take a list of numbers as input and print the count of positive and negative numbers using a loop."
+  - tags:
+      - dictionary
+      - products
+      - filtering
+  statement: "Take a dictionary with product names as keys and their prices as values. Print the product names with prices greater than 50."
+  - tags:
+      - list
+      - loop
+      - reverse
+  statement: "Take a list of numbers as input and print the numbers in reverse order using a loop."
+  - tags:
+      - tuple
+      - products
+      - filtering
+    statement: "Take a tuple of products with their prices and print the products that cost more than 50."
+  - tags:
+      - tuple
+      - items
+      - weight
+      - price
+      - conditionals
+  statement: "Take a tuple of items with their weights and prices, and calculate the total price for items weighing more than 5 kg."
+  - tags:
+      - list
+      - loop
+      - strings
+      - filtering
+  statement: "Take a list of strings as input and print the strings that contain the letter 'e'."
+  - tags:
+      - strings
+      - concatenation
+      - input
+  statement: "Take two words as input, concatenate them with a space in between, and print the result."
+  - tags:
+      - strings
+      - multiplication
+      - input
+  statement: "Take a string and an integer as input, multiply the string by the integer, and print the result."
+  - tags:
+      - division
+      - float
+      - math
+  statement: "Divide 78.9 by 5 and print the result."
+  - tags:
+      - debugging
+      - syntax
+      - errors
+  statement: "Find and correct the syntax errors in the given print statements: (a) Print(“Hello “world””) (b) Print(‘I am ‘learning’ python’)"
+  - tags:
+      - boolean
+      - data-types
+  statement: "Set a = True and b = False. Print a + b and also print its datatype. Write the expected output."
+  - tags:
+      - geometry
+      - rectangle
+      - perimeter
+  statement: "Take the length and width of a rectangle as input and calculate the perimeter using the formula: Perimeter = 2 * (length + width). Print the result."
+  - tags:
+      - geometry
+      - triangle
+      - area
+  statement: "Take the base and height of a triangle as input and calculate the area using the formula: Area = 0.5 * base * height. Print the result."
+  - tags:
+      - geometry
+      - square
+      - perimeter
+  statement: "Take the side length of a square as input and calculate the perimeter using the formula: Perimeter = 4 * side. Print the result."
+  - tags:
+      - average
+      - numbers
+      - calculation
+  statement: "Take three floating-point numbers as input, calculate the average, and print the result."
+  - tags:
+      - arithmetic
+      - numbers
+      - operations
+  statement: "Take two integers as input and perform addition, subtraction, multiplication, and division. Print each result."
+  - tags:
+      - output
+      - print-statements
+      - debugging
+  statement: "Predict and write the output of the following print statements: (a) Print ('Hello \"Mr. Chips\".') (b) Print(“hello” * “5”)"
+  - tags:
+      - math
+      - exponentiation
+      - square
+  statement: "Take an integer as input and print its square in the format: 'The square of 4 is 16'."
+  - tags:
+      - arithmetic
+      - addition
+  statement: "Add the numbers 567.98 and 234 and print the result."
+  - tags:
+      - multiplication
+      - input
+  statement: "Take an integer as input and print the result when multiplied by 10 in the format: 'The result of 4 multiplied by 10 is 40'."
