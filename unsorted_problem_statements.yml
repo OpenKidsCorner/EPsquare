@@ -128,3 +128,122 @@ problems:
       - multiplication
       - input
   statement: "Take an integer as input and print the result when multiplied by 10 in the format: 'The result of 4 multiplied by 10 is 40'."
+  - tags:
+      - sales
+      - profit-loss
+      - calculation
+      - input
+  statement: "Ask the user how many cakes, cookies, and pastries they sold. Assume each item has a fixed cost price and selling price. Calculate the profit or loss for each item. Compute the total profit/loss. Print the total profit or loss."
+  - tags:
+      - test-scores
+      - average
+      - input
+      - calculation
+  statement: "Take four test scores as input and print the average score."
+  - tags:
+      - strings
+      - input
+      - concatenation
+      - fun
+  statement: "Take the first name of a user and the name of their favorite animal. Combine them to create a superhero name. Example Output: Alex + Tiger → AlexTiger."
+  - tags:
+      - salary
+      - bonus
+      - conditionals
+      - input
+  statement: "A company pays its employees ₹500 per working day. Ask the user how many days they worked in a month. Calculate and print their total salary. If the employee worked more than 25 days, add a ₹2000 bonus."
+  - tags:
+      - strings
+      - input
+      - concatenation
+  statement: "Take two strings as input, concatenate and print them."
+  - tags:
+      - number
+      - even-odd
+      - input
+      - conditionals
+  statement: "Take a number as input and check if it is even or odd."
+  - tags:
+      - temperature
+      - conversion
+      - input
+  statement: "Convert a temperature from Celsius to Fahrenheit. Formula: Fahrenheit = (Celsius × 9/5) + 32."
+  - tags:
+      - geometry
+      - area
+      - circumference
+      - input
+  statement: "You are designing a circular table and want to calculate its planting area and length. Ask the user for the radius of the table. Find the area using: area = 3.14 * radius * radius. Find the fencing length using: circumference = 2 * 3.14 * radius. Print both answers."
+  - tags:
+      - strings
+      - numbers
+      - input
+      - addition
+  statement: "Take two string numbers, add them. Print the answer."
+
+  - tags:
+      - boolean
+      - variables
+      - print
+  statement: "Set Happy = True and Sad = False and then print Happy + Sad."
+  - tags:
+      - geometry
+      - volume
+      - input
+  statement: "Take the length, width, height of a cylindrical toy and find its volume. Print the answer. Formula: volume = length * width * height."
+  - tags:
+      - construction
+      - area
+      - cost
+      - input
+  statement: "A contractor charges ₹800 per square meter to build a house. Ask the user for the length and width of their house (in meters). Calculate and print the total construction cost."
+  - tags:
+      - geometry
+      - perimeter
+      - input
+  statement: "Take the length and width of a laptop. Find and print the total fence needed (perimeter). Formula: Perimeter = 2 * (length + width)."
+
+  - tags:
+      - finance
+      - simple-interest
+      - input
+  statement: "A bank offers 5% annual interest on a fixed deposit. Ask the user for the amount deposited and the number of years. Calculate and print the total amount after interest using Simple Interest Formula: SI = (P × R × T) / 100."
+
+  - tags:
+      - age
+      - years-left
+      - input
+  statement: "Take the user's age and print how many years are left until they turn 100."
+  - tags:
+      - gst
+      - price
+      - input
+  statement: "Ask for the price of an item and print the price with GST (18%) added."
+  - tags:
+      - math
+      - arithmetic
+      - input
+  statement: "Take two numbers (int) as input and calculate the sum, difference, product, and quotient. Print the results."
+  - tags:
+      - temperature
+      - conversion
+      - input
+  statement: "Ask the user for a Celsius temperature and convert it to Fahrenheit. Formula: Fahrenheit = (Celsius × 9/5) + 32."
+
+  - tags:
+      - math
+      - cube
+      - input
+  statement: "Take a number (double) as input and print the cube of the number."
+
+  - tags:
+      - products
+      - total-cost
+      - calculation
+  statement: "You have 356 cakes and 892 lays. Price of each cake is ₹150 and lays ₹70. Calculate total price of cakes and lays and print the answer."
+
+  - tags:
+      - fuel
+      - cost
+      - input
+  statement: "A car consumes 1 liter of fuel per 15 km and fuel costs ₹100 per liter. Ask the user for the distance they traveled (in km). Calculate and print the total fuel cost for the trip."
